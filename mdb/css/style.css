@@ -1,0 +1,8 @@
+@font-face {
+ font-family: "Capture-Smallz";
+ src: url("/static/fonts/capture-smallz.ttf") format("opentype");
+}
+
+.font-capture-smallz{
+    font-family: "Capture-Smallz";
+}
